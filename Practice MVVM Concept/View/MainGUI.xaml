@@ -1,0 +1,90 @@
+﻿<Window x:Class="Practice_MVVM_Concept.View.MainGUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practice_MVVM_Concept.View"
+        mc:Ignorable="d"
+        Title="MainGUI" Height="450" Width="800">
+    <Grid>
+        <!--Create Grid View Layout Two Row Two Column-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <!--Add Nested Grid Layout According to need.-->
+
+        <Grid Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <!--Add Label Property-->
+
+            <Label Grid.Row="0" Content="Name" Margin="10" FontWeight="Bold" FontSize="14" ></Label>
+            <Label Grid.Row="1" Content="Last Name" Margin="10" FontWeight="Bold" FontSize="14" ></Label>
+            <Label Grid.Row="2" Content="City" Margin="10" FontWeight="Bold" FontSize="14" ></Label>
+            <Label Grid.Row="3" Content="Pincode" Margin="10" FontWeight="Bold" FontSize="14" ></Label>
+            
+            <!--add Textbox property-->
+
+            <TextBox Grid.Row="0" Grid.Column="1" ToolTip="Enter full Name" Text="{Binding  FirstName}" Margin="10" FontWeight="Medium" FontSize="14"></TextBox>
+            <TextBox Grid.Row="1" Grid.Column="1" ToolTip="Enter Last Name" Text="{Binding LastName}" Margin="10" FontWeight="Medium" FontSize="14"></TextBox>
+            <TextBox Grid.Row="2" Grid.Column="1" ToolTip="Enter City Name" Text="{Binding City}" Margin="10" FontWeight="Medium" FontSize="14"></TextBox>
+            <TextBox Grid.Row="3" Grid.Column="1" ToolTip="Enter Pincode Name" Text="{Binding Pincode}" Margin="10" FontWeight="Medium" FontSize="14"></TextBox>
+            
+            
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <ListBox  ItemsSource="{Binding Information}">
+                
+            </ListBox>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button Content="AddData" BorderThickness="1" Margin="10" Command="{Binding AddDataCommand}" ></Button>
+            <Button Grid.Column="1" Content="Clear" BorderThickness="1" Margin="10" Command="{Binding ClearDataCommand}" ></Button>
+            
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+        </Grid>
+
+    </Grid>
+</Window>

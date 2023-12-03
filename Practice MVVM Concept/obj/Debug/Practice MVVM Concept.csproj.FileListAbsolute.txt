@@ -1,0 +1,51 @@
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Practice MVVM Concept.exe.config
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Practice MVVM Concept.exe
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Practice MVVM Concept.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Wpf.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Unity.Abstractions.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Unity.Container.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Wpf.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Prism.Wpf.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Unity.Abstractions.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Unity.Container.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.csproj.AssemblyReference.cache
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\View\MasterWindow.g.cs
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\App.g.cs
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept_Content.g.cs
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept_MarkupCompile.cache
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept_MarkupCompile.lref
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\View\MasterWindow.baml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.g.resources
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice_MVVM_Concept.Properties.Resources.resources
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.csproj.GenerateResource.cache
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.csproj.CoreCompileInputs.cache
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.csproj.CopyComplete
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.exe
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\Practice MVVM Concept.pdb
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\MySqlConnector.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Buffers.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Memory.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\MySqlConnector.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Buffers.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Memory.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\View\MainGUI.g.cs
+C:\Users\rushi\source\repos\Practice MVVM Concept\Practice MVVM Concept\obj\Debug\View\MainGUI.baml
